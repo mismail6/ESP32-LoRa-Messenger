@@ -1,4 +1,4 @@
-# LoRa-ESP32-Messenger
+# ESP32/LoRa Messenger
 This project implements a communication system using LoRa radio technology. 
 It enables long-range, low-power messaging without reliance on cellular or Wi-Fi networks.
 
